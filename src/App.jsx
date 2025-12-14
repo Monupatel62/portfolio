@@ -45,7 +45,7 @@ export default function App() {
             <img src="/src/assets/project1.png" alt="Smart Home Project" />
             <h3>Smart Home Automation</h3>
             <p>Real‑time IoT system with authentication and MQTT.</p>
-            <a href="https://github.com/your-username/smart-home-project" target="_blank">GitHub Repo</a>
+            <a href="https://github.com/Monupatel62/smart-home-project" target="_blank">GitHub Repo</a>
           </div>
 
           <div className="card">
